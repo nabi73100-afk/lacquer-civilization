@@ -11,19 +11,19 @@ Unlike conventional art historical or craft-based perspectives, this research ap
 
 ## Research directions
 
-• Material ontology of lacquer  
-• Deep-time aesthetics  
-• Lacquer and state formation in East Asia  
-• Archaeological persistence of lacquer structures  
-• Cross-media artistic research  
-• AI-assisted knowledge production  
+- Material ontology of lacquer
+- Deep-time aesthetics
+- Lacquer and state formation in East Asia
+- Archaeological persistence of lacquer structures
+- Cross-media artistic research
+- AI-assisted knowledge production
 
 ## Long-term objectives
 
-- Construct a global theoretical framework for lacquer civilization  
-- Connect archaeological, material science, and artistic methodologies  
-- Develop museum-scale research exhibitions  
-- Establish lacquer as a key concept in global material humanities  
+- Construct a global theoretical framework for lacquer civilization
+- Connect archaeological, material science, and artistic methodologies
+- Develop museum-scale research exhibitions
+- Establish lacquer as a key concept in global material humanities
 
 ## Author
 
